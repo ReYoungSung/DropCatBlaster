@@ -1,0 +1,7 @@
+LevelCompleteStar.png
+size:827,791
+filter:Linear,Linear
+pma:true
+scale:0.5
+xxxhdpi
+bounds:2,2,823,787

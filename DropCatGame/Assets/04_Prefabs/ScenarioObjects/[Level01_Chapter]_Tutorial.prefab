@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7080980093469542982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7080980093469542986}
+  - component: {fileID: 7080980093469542991}
+  - component: {fileID: 7080980093469542984}
+  - component: {fileID: 7080980093469542989}
+  - component: {fileID: 7080980093469542988}
+  m_Layer: 0
+  m_Name: '[Level01_Chapter]_Tutorial'
+  m_TagString: LEVEL_CHAPTER
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7080980093469542986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080980093469542982}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1358.2393, y: 814.72986, z: -1469.3691}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7080980093469542991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080980093469542982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f4b03a33701944458bf406da3522147, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  virtualCamera: {fileID: 0}
+  popUpMessage: {fileID: 0}
+  player: {fileID: 0}
+  sky: {fileID: 0}
+  houseUI: {fileID: 0}
+  checkMark_Tutorial: {fileID: 0}
+  tweeningTime: 0.5
+  sceneManager: {fileID: 0}
+  levelLoader: {fileID: 0}
+--- !u!114 &7080980093469542984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080980093469542982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2230e333d81728b41bdaac8d917f117b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timerMode: 0
+--- !u!114 &7080980093469542989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080980093469542982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b37e3737b8599fb46a8887950a9c1679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseHouse: {fileID: 0}
+  gameOverMenu: {fileID: 0}
+  virtualCamera: {fileID: 0}
+--- !u!114 &7080980093469542988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080980093469542982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1616ee7997c840f48917a2307f85b920, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

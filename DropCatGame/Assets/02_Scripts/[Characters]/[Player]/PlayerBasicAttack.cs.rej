@@ -1,0 +1,9 @@
+diff a/Assets/02_Scripts/[Characters]/[Player]/PlayerBasicAttack.cs b/Assets/02_Scripts/[Characters]/[Player]/PlayerBasicAttack.cs	(rejected hunks)
+@@ -47,6 +47,7 @@
+ 
+         [SerializeField] private float defaultGravityScale = 70;
+         private float horizontalHitGravityScale = 0f;
++        private float verticalHitGravityScale = 20f;
+ 
+         private Coroutine attackCoroutine = null;
+         string attackDirection = null;

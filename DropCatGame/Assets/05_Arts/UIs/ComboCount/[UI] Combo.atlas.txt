@@ -1,0 +1,8 @@
+[UI] Combo.png
+size:842,307
+filter:Linear,Linear
+pma:true
+scale:0.5
+Group 1
+bounds:2,2,838,303
+offsets:0,2,838,305

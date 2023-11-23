@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b243627405601924fa07d4dfce906820, type: 3}
+  m_Name: PlayerCharacterData 2
+  m_EditorClassIdentifier: 
+  playerCharacter: {fileID: 6769206694803681786, guid: e89bc07e1c97f6b48bfff41a93e78743, type: 3}
+  initialPosition: {x: -70, y: -130}
+  moveXSpeed: 200
+  jumpHeight: 80
+  maxJumpCount: 3
+  teleportDownDistance: 80

@@ -1,0 +1,11 @@
+[UI] TouchAdvice.png
+size:574,736
+filter:Linear,Linear
+pma:true
+scale:0.5
+Hand_01
+bounds:2,2,426,541
+offsets:0,4,426,545
+rotate:90
+Touch
+bounds:2,430,570,304
