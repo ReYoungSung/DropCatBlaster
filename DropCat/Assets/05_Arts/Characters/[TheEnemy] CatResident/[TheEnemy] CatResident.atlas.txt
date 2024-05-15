@@ -1,0 +1,25 @@
+[TheEnemy] CatResident.png
+size:1438,1319
+filter:Linear,Linear
+pma:true
+scale:0.5
+01
+bounds:694,920,397,726
+rotate:90
+02
+bounds:729,476,442,707
+offsets:16,0,458,707
+rotate:90
+03
+bounds:2,30,444,728
+rotate:90
+04
+bounds:2,484,434,725
+offsets:0,26,434,751
+rotate:90
+Group 1
+bounds:2,961,356,690
+rotate:90
+Group 2
+bounds:732,2,472,700
+rotate:90

@@ -1,0 +1,212 @@
+{
+    "m_SelectedDeviceId": "R3CM604ER7R",
+    "m_SelectedPackage": {
+        "deviceId": "R3CM604ER7R",
+        "name": "com.TeamGooCat.DropCatBlaster",
+        "processId": 12741,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.sec.android.app.launcher",
+            "processId": 2073,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 13583,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 15888,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 17990,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 21472,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 25284,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 28340,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 30266,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 32483,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 4091,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 8419,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 10356,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CM604ER7R",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 12741,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CN409ZXGX",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 2726,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN409ZXGX",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 18650,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN409ZXGX",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 20093,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN409ZXGX",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 28689,
+            "exited": true
+        },
+        {
+            "deviceId": "0715f70c9b51223a",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 23615,
+            "exited": false
+        },
+        {
+            "deviceId": "ce091609582d4f0602",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 24525,
+            "exited": false
+        },
+        {
+            "deviceId": "ce091609582d4f0602",
+            "name": "com.TeamGooCat.DropCatBlaster",
+            "processId": 14743,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [
+        {
+            "Name": "D:\\2021.3.7f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\il2cpp\\Development\\Symbols\\arm64-v8a",
+            "Enabled": true
+        },
+        {
+            "Name": "D:\\2021.3.7f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\il2cpp\\Release\\Symbols\\arm64-v8a",
+            "Enabled": true
+        },
+        {
+            "Name": "D:\\2021.3.7f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\il2cpp\\Release\\Symbols\\armeabi-v7a",
+            "Enabled": true
+        }
+    ],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

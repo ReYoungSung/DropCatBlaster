@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/InitLogo.unity
+    guid: 33851f4287258ba4b9cbd16b2fd722f6
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/TitleMenu_InGame.unity
+    guid: 63ce9ef04a3052b4aaccb25908a05c30
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage0-Tutorial.unity
+    guid: 8f8299aa275ba0740b58d5b7e313cf70
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage1-Level1.unity
+    guid: be02495eecd0465498e6c704062473a5
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage1-Level2.unity
+    guid: f8e5f079b9651a94e9ee952152bab289
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage1-Level3.unity
+    guid: 24616b1292cf16340b488e49e6c9427e
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage1-Level4.unity
+    guid: 8b95cb118a279fe4a9b7db03e088b10f
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage1-Level5.unity
+    guid: faebe736c861c094eb7f414475fd2936
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage2-Level1.unity
+    guid: fe9c52dac22dccf4095fccbbeab248ae
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage2-Level2.unity
+    guid: bbb4efd45d9569445a52cdefb9b138b2
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage2-Level3.unity
+    guid: d586f4f49a5a80c40a9fb58e3ea3cc0d
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage2-Level4.unity
+    guid: a150595f5ee83524d94acd77fe19f3e2
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage2-Level5.unity
+    guid: eb2490c8cc88db74c8fbac1b3b2563cd
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage3-Level1.unity
+    guid: f3c641c205008df43bc654bca716b41c
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage3-Level2.unity
+    guid: 9f1527caa55cca3458978177aff4df9c
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage3-Level3.unity
+    guid: 1a1c8a7dafff93b4b85dda0b90c97dcb
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage3-Level4.unity
+    guid: e80b55991bc6aa04aa5940d31e6336b4
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage3-Level5.unity
+    guid: c09e81c75e55dff4493211a845f6e9e4
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage4-Level1.unity
+    guid: 1846dfc43bb134c46838f33a63e031e8
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage4-Level2.unity
+    guid: 60d73b4f8eaf86349a28caac2caa7d23
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage4-Level3.unity
+    guid: c167bf147bcf9f7488201c55898f9808
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage4-Level4.unity
+    guid: f76a3c0813cf7a94f8fee7f43cb2bf95
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage4-Level5.unity
+    guid: 6cfd6e4be62214a448351104badf03ee
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage5-Level1.unity
+    guid: 4edc38f2531b5814bbdcd51cbbe3c905
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage5-Level2.unity
+    guid: d1f24951cbf38514d9554389624d8601
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage5-Level3.unity
+    guid: b1a54a6c9e4ed094b8267158927ef64d
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage5-Level4.unity
+    guid: a1e2575b9fb1d2a488905786d865fa79
+  - enabled: 1
+    path: Assets/01_Scenes/2023-New version 0.6.0/Stage5-Level5.unity
+    guid: ce9c973cf495bda4ba3931ff362732eb
+  m_configObjects: {}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: '[TheEnemy] CatResident_Atlas'
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 1f5209fd86cb1d84e89f3cfd50c5c0c9, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 4965cd5ba56b9694d8b8dc985b23f59a, type: 2}

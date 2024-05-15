@@ -1,0 +1,14 @@
+[TheEnv.]WindTurbine.png
+size:731,675
+filter:Linear,Linear
+pma:true
+scale:0.5
+Group 2
+bounds:2,2,658,602
+offsets:0,1,658,603
+Layer 12
+bounds:662,537,67,67
+Layer 13
+bounds:2,606,67,677
+offsets:0,1,67,679
+rotate:90

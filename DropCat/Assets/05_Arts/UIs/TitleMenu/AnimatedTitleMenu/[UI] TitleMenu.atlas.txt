@@ -1,0 +1,28 @@
+[UI] TitleMenu.png
+size:322,1025
+filter:Linear,Linear
+pma:true
+scale:0.5
+BiggestGear
+bounds:150,207,126,126
+offsets:0,0,127,127
+Button_Armory
+bounds:2,2,303,156
+Button_Market
+bounds:150,335,319,155
+rotate:90
+Button_Options
+bounds:185,712,311,135
+rotate:90
+Button_Stage
+bounds:2,656,367,181
+rotate:90
+CatBase
+bounds:2,160,494,146
+rotate:90
+MiddleSized Gear
+bounds:228,672,38,70
+rotate:90
+Smallest Gear
+bounds:185,669,41,41
+offsets:0,1,41,42

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GROUNDOBJ
+  - Enemy
+  - ENEMY_CatHouse
+  - DevelopmentTool
+  - ENEMY_SpaceshipHatch
+  - ENEMY_Spaceship
+  - PLAYER_BaseHouse
+  - PLAYER_Character
+  - STEPPABLEOBJ
+  - LEVEL_CHAPTER
+  - ToggleUI
+  - '[UI]_EnemyWarning'
+  - AUDIOMANAGER
+  - HITBOXOBJ
+  - FxTemporaire
+  - ENEMY_CatResident
+  - ENEMY_TutorialCatHouse
+  - Controller
+  - ENEMY_Drone
+  - ENEMY_BombCatDrone
+  - DamageCollisionObject
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Volume
+  - Water
+  - UI
+  - GROUNDOBJ
+  - ART
+  - PLAYER
+  - ENEMY
+  - CURSOR
+  - BaseHouse
+  - POSTPROCSSING
+  - HITBOXCOLLIDERS
+  - HITBOXCOLLIDERS_PROJECTILES
+  - PARTICLES
+  - Controller
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BLACKSCREEN
+    uniqueID: 1179387109
+    locked: 0
+  - name: SKY
+    uniqueID: 1431919745
+    locked: 0
+  - name: CLOUD
+    uniqueID: 901372751
+    locked: 0
+  - name: TEMPLATE
+    uniqueID: 3242463657
+    locked: 0
+  - name: MOUNTAIN_BACKGROUND
+    uniqueID: 1385180063
+    locked: 0
+  - name: MOUNTAIN_MIDDLEGROUND
+    uniqueID: 2070792405
+    locked: 0
+  - name: MOUNTAIN_FOREGROUND
+    uniqueID: 459452603
+    locked: 0
+  - name: FOREST_DARKNESS
+    uniqueID: 1419631147
+    locked: 0
+  - name: FOREST_LEFT
+    uniqueID: 1385945499
+    locked: 0
+  - name: FOREST_RIGHT
+    uniqueID: 1903492711
+    locked: 0
+  - name: GROUND
+    uniqueID: 2215048839
+    locked: 0
+  - name: CATSPACESHIP
+    uniqueID: 4215474017
+    locked: 0
+  - name: BASEHOUSE
+    uniqueID: 715084511
+    locked: 0
+  - name: CHARACTERS
+    uniqueID: 3776581659
+    locked: 0
+  - name: CURSOR
+    uniqueID: 642679745
+    locked: 0
+  - name: PARTICLES
+    uniqueID: 204849889
+    locked: 0
