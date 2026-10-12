@@ -1,3 +1,5 @@
+**한국어** | [English](README.en.md)
+
 # DropCatBlaster
 
 세로 스크롤 방식의 펀치 액션 디펜스 게임입니다. Android 베타 버전으로 출시했던 프로젝트이며, 현재는 배포가 중단되어 있습니다.
